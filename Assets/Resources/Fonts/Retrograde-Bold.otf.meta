@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d7d193fdcf9ec924994fa9ba3a4b260e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Retrograde
+  fontNames:
+  - Retrograde
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 562ce42d9370e72489dc968af1c6f08b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
