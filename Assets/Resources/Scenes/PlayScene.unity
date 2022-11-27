@@ -1954,6 +1954,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy Spawner
       objectReference: {fileID: 0}
+    - target: {fileID: 4828762993003493526, guid: ce751026c358d294bbb25c655b5ae18f,
+        type: 3}
+      propertyPath: spawnBossAfterSeconds
+      value: 60
+      objectReference: {fileID: 0}
     - target: {fileID: 4828762993003493527, guid: ce751026c358d294bbb25c655b5ae18f,
         type: 3}
       propertyPath: m_LocalPosition.x
